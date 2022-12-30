@@ -1,0 +1,11 @@
+{
+    "ServerID" : "abcde",
+    "Port" : 8765,
+    "DB_UserName" : "root",
+    "DB_Password" : "root",
+    "DB_IP" : "1.116.163.254",
+    "DB_Port" : 3306,
+    "DB_Name" : "SEC_TANS_DB",
+    "KeyPath" : "/usr/lib",
+    "MaxNode" :100
+}

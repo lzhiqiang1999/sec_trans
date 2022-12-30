@@ -1,0 +1,8 @@
+{
+    "ClientID" : "12345",
+    "ServerID" : "abcde",
+    "IP" : "127.0.0.1",
+    "Port" : 8765,
+    "KeyPath" : "/usr/local",
+    "MaxNode" :1
+}
